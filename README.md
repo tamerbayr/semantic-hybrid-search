@@ -1,4 +1,4 @@
-# Hybrid Semantic Retriever
+t# Hybrid Semantic Retriever
 
 Bu proje, anlamsal benzerlik ile kelime bazlı eşleşmeyi birleştiren,
 hibrit bir bilgi erişim sistemi sunmaktadır. Amaç, özellikle
@@ -31,7 +31,7 @@ Bu proje:
     sonuçlarını içeren rapor dosyası.
 
 - **Çalıştırılabilir Kod**
-  - `hybrid_retriever.ipynb`  
+  - `semantic-hybrid-search.ipynb`  
     Google Colab üzerinde çalışacak şekilde hazırlanmış, veri yükleme,
     anlamsal arama, hibrit skorlama ve Gradio arayüzünü içeren Jupyter
     defteri.
