@@ -1,4 +1,4 @@
-t# Hybrid Semantic Retriever
+# Hybrid Semantic Retriever
 
 Bu proje, anlamsal benzerlik ile kelime bazlı eşleşmeyi birleştiren,
 hibrit bir bilgi erişim sistemi sunmaktadır. Amaç, özellikle
